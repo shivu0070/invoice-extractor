@@ -1,0 +1,55 @@
+{
+  "page": "Commercial-Invoice-Template.pdf#p1",
+  "columns": [
+    "PRODUCT",
+    "HS CODE",
+    "UNITS",
+    "UNIT PRICE",
+    "TOTAL"
+  ],
+  "rows": [
+    {
+      "PRODUCT": "Conveyor Belt 25\" Country of origin: US",
+      "HS CODE": "88565.2252",
+      "UNITS": "2",
+      "UNIT PRICE": "$200.00",
+      "TOTAL": "$400.00"
+    },
+    {
+      "PRODUCT": "Pole with bracket Country of origin: US",
+      "HS CODE": "88565.2545",
+      "UNITS": "1",
+      "UNIT PRICE": "$85.00",
+      "TOTAL": "$85.00"
+    },
+    {
+      "PRODUCT": "Pole with bracket Country of origin: US",
+      "HS CODE": "88565.2545",
+      "UNITS": "1",
+      "UNIT PRICE": "$85.00",
+      "TOTAL": "$85.00"
+    },
+    {
+      "PRODUCT": "Pole with bracket Country of origin: US",
+      "HS CODE": "88565.2545",
+      "UNITS": "1",
+      "UNIT PRICE": "$85.00",
+      "TOTAL": "$85.00"
+    },
+    {
+      "PRODUCT": "Pole with bracket Country of origin: US",
+      "HS CODE": "88565.2545",
+      "UNITS": "1",
+      "UNIT PRICE": "$85.00",
+      "TOTAL": "$85.00"
+    }
+  ],
+  "envelope": {
+    "invoice_number": "F1000876/23",
+    "invoice_date": "14/08/2023",
+    "subtotal": "$485.00",
+    "discount": "",
+    "tax": "$117.00",
+    "total": "$702.00"
+  }
+}
